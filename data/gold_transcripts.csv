@@ -1,0 +1,80 @@
+file_name,label,caption,keyword,distortions,uncertain
+0000a.jpg,alcohol,Don't miss limited edition nightlife bourbon event,bourbon,plain,0
+0001a.jpg,alcohol,ch4mpa gne,champagne,leet;split_word,0
+0003a.jpg,alcohol,Don't miss grab now imported lager premium,lager,rotated;stylized,0
+0004a.jpg,alcohol,Check out disco event chardonnay,chardonnay,mirrored;rotated;multiline,1
+0005a.jpg,alcohol,Don't miss limited edition limited edition port imported,port,multiline;stylized,0
+0006a.jpg,alcohol,Tryevent reServe budweiser flavoR,budweiser,random_case;glued,0
+0007a.jpg,alcohol,Try taste lager,lager,plain,0
+0008a.jpg,alcohol,Don't miss taste special port event,port,rotated;low_contrast,0
+0009a.jpg,alcohol,Get ready for smooth whiskey party,whiskey,low_contrast;multiline,0
+0052a.jpg,alcohol,bourBoN smooTh,bourbon,rotated;random_case;stylized,0
+0097a.jpg,alcohol,Check out menu limited edition jack daniels,jack daniels,rotated;multiline,0
+0139a.jpg,alcohol,Get ready f4r flavor party guinness t4ste,guinness,mirrored;leet;multiline,0
+0180a.jpg,alcohol,brandy,brandy,plain,0
+0223a.jpg,alcohol,Try menu rum grab now,rum,mirrored,0
+0268a.jpg,alcohol,heineken,heineken,plain,0
+0309a.jpg,alcohol,DOn't miss premium bacaRdi,bacardi,mirrored;random_case;multiline,0
+0351a.jpg,alcohol,Don't miss discount nightlife guinness party,guinness,upside_down;rotated,0
+0395a.jpg,alcohol,cocktail,cocktail,rotated;stylized,0
+0440a.jpg,alcohol,Check out check offer smir noff party,smirnoff,split_word;low_contrast,0
+0488a.jpg,alcohol,Try check grab now jack daniels,jack daniels,low_contrast;multiline,0
+3032a.jpg,alcohol,Check out flavor smirnoff smooth,smirnoff,plain,0
+3077a.jpg,alcohol,Try brew bacardi,bacardi,rotated;multiline,0
+3096a.jpg,alcohol,Try brew whiskey discount,whiskey,plain,0
+3097a.jpg,alcohol,Check ou7 menu jack daniels imported,jack daniels,upside_down;rotated;leet,0
+3098a.jpg,alcohol,SteLla artois,stella artois,random_case,0
+3099a.jpg,alcohol,Try menu vodka,vodka,low_contrast,0
+0091a.jpg,alcohol,Try offerbacardi,bacardi,glued;multiline,0
+0130a.jpg,alcohol,Try limited edition absolut,absolut,rotated;low_contrast,0
+0157a.jpg,alcohol,Check out celebration disco u nt stella arto is brew,stella artois,split_word;multiline,0
+0237a.jpg,alcohol,Try taste grab now smirnoff bar,smirnoff,plain,0
+0265a.jpg,alcohol,Try tastelimited edition whiskey taste,whiskey,rotated;glued,0
+0273a.jpg,alcohol,budweiser brew,budweiser,rotated;stylized,0
+3007a.jpg,alcohol,Try taste nightlife gin,gin,rotated;stylized,0
+3039a.jpg,alcohol,champagne explore,champagne,rotated,0
+3056a.jpg,alcohol,Don't miss offer rum flavor,rum,rotated;low_contrast,0
+3057a.jpg,alcohol,Try explore bar heineken special,heineken,low_contrast;multiline,0
+0000na.jpg,non_alcohol,Don't miss check limited edition cannabis special,cannabis,plain,0
+0002na.jpg,non_alcohol,nJoy taSTe flAvor s da nigHTlife,,rotated;random_case;split_word,0
+0005na.jpg,non_alcohol,coffee imported,coffee,mirrored,0
+0006na.jpg,non_alcohol,Try brew brew lemonade br3w,lemonade,leet;multiline,0
+0007na.jpg,non_alcohol,cbd flaVor,cbd,random_case,0
+0008na.jpg,non_alcohol,Enjoy flavor bar iced tea smooth,iced tea,mirrored;multiline,0
+0009na.jpg,non_alcohol,weed,weed,plain,0
+0010na.jpg,non_alcohol,energy drink,energy drink,rotated;low_contrast,0
+0310na.jpg,non_alcohol,Enjoy menu Prem ium milk,milk,split_word,0
+0352na.jpg,non_alcohol,Try check flavor espresso bar,espresso,rotated;multiline,0
+0397na.jpg,non_alcohol,Don't miss discount limited edition iced tea premium,iced tea,multiline,0
+0439na.jpg,non_alcohol,Enjoy celebration sparkling wat r premium,water,split_word;multiline,0
+0480na.jpg,non_alcohol,Looking for taste discount herbal tea imported,herbal tea,low_contrast;multiline,0
+3100na.jpg,non_alcohol,water discount,water,rotated;multiline,0
+0011na.jpg,non_alcohol,Looking for flAvor limited edition marijuana,marijuana,rotated;random_case,0
+0051na.jpg,non_alcohol,,,no_caption,0
+0093na.jpg,non_alcohol,Get ready for grab now flavor lemonade event,lemonade,plain,0
+0137na.jpg,non_alcohol,Experience r serve reserve espr sso ce13bration,espresso,rotated;split_word;leet,0
+3030na.jpg,non_alcohol,energy drink explore,energy drink,rotated,0
+3075na.jpg,non_alcohol,7ry grab now coffee,coffee,rotated;leet,0
+3096na.jpg,non_alcohol,weed check,weed,plain,0
+3097na.jpg,non_alcohol,matcha,matcha,plain,0
+3098na.jpg,non_alcohol,herbal tea grab now,herbal tea,rotated;stylized,0
+0017na.jpg,non_alcohol,Looking for bar brew weed,weed,multiline,0
+0084na.jpg,non_alcohol,Get ready for special milk par ty,milk,rotated;split_word,0
+0125na.jpg,non_alcohol,Don't miss check hot chocolate premium,hot chocolate,mirrored;low_contrast,1
+0148na.jpg,non_alcohol,hot chocolate,hot chocolate,rotated;multiline,0
+0168na.jpg,non_alcohol,hot cho colat3,hot chocolate,split_word;leet,0
+0169na.jpg,non_alcohol,Check out celebration matcha reserve,matcha,rotated;low_contrast,0
+0220na.jpg,non_alcohol,Enj0y limited edition dIScount icEd tea,iced tea,leet;random_case,0
+0234na.jpg,non_alcohol,sparkling celebration,sparkling,upside_down;stylized,1
+0258na.jpg,non_alcohol,Enjoy bar discount coffee explore,coffee,stylized,0
+0271na.jpg,non_alcohol,Try special celebration weed check,weed,multiline,0
+0366na.jpg,non_alcohol,cannabis menu,cannabis,multiline,0
+0492na.jpg,non_alcohol,T nighT1ife event milkshake,milkshake,low_contrast;multiline,1
+3018na.jpg,non_alcohol,ge7 ready for reserv3 energy drink,energy drink,rotated;leet;multiline,0
+3028na.jpg,non_alcohol,Don't miss reserve smooth cbd,cbd,rotated;stylized,0
+3046na.jpg,non_alcohol,i ced t ea,iced tea,split_word,0
+3048na.jpg,non_alcohol,hot cho colate flavor,hot chocolate,split_word;multiline,0
+3052na.jpg,non_alcohol,coffee,coffee,rotated,0
+3060na.jpg,non_alcohol,Get ready for menu coffee special,coffee,rotated,0
+3061na.jpg,non_alcohol,Check out limited edition juice,juice,stylized,0
+3093na.jpg,non_alcohol,MATCHAEV ENT,matcha,glued;split_word,0

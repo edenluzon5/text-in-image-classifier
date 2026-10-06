@@ -1,0 +1,10 @@
+# Python 3.11, CPU only.
+paddlepaddle==3.3.1
+paddleocr==3.7.0
+paddlex==3.7.2
+numpy==2.3.5
+pillow==12.3.0
+rapidfuzz==3.14.6
+# evaluate.py (figures) and download_data.py
+matplotlib==3.11.2
+gdown==6.4.1

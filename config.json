@@ -1,0 +1,9 @@
+{
+  "main_variants": ["original", "mirror", "rot35", "rot-35", "upscale2"],
+  "extra_variants_if_undecided": [
+    "rot180", "rot90", "rot-90", "mirror_rot35", "mirror_rot-35",
+    "autocontrast", "upscale4", "sharpen"
+  ],
+  "min_line_confidence": 0.5,
+  "caption_min_width_fraction": 0.45
+}

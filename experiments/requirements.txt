@@ -1,0 +1,7 @@
+-r ../requirements.txt
+# components.py, heldout_brand.py (n-gram classifiers)
+scikit-learn==1.9.1
+# ocr_comparison.py only; also needs the tesseract program (brew install tesseract)
+easyocr==1.7.2
+torch==2.14.0
+pytesseract==0.3.13
