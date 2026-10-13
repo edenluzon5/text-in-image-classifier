@@ -14,7 +14,6 @@ validation split gives the same scores.
 |---|---|
 | **1. Python code** | |
 | Well documented, with `requirements.txt` | `predict.py`, `evaluate.py`, `explore.py`, `src/`; every module has a docstring. `requirements.txt` pins exact versions |
-| Consistent results in a clean environment | pinned packages and OCR models, no randomness at inference. Checked in a fresh environment with no cache: the tests pass, and 25 test images got exactly the predictions in `results/test/results.csv` |
 | Stand-alone inference script that writes `results.csv` (`file_name,prediction`) | `predict.py` (see "Run on a folder of images"). Example output: `results/test/results.csv` |
 | **2. Reports and visualizations** | |
 | Data exploration | [`REPORT.md`](REPORT.md) section 2, figures in `results/exploration/` |
